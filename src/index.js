@@ -5,8 +5,9 @@ import './index.css';
 // import App6 from './App6';
 // import App5 from './App5';
 // import App12 from './App12';
-import App9 from './App9';
-import App13 from './App13';
+// import App9 from './App9';
+// import App13 from './App13';
+import App16 from './App16';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -15,7 +16,8 @@ root.render(
     {/* <App6 /> */}
     {/* <App12 /> */}
     {/* <App9/> */}
-    <App13/>
+    {/* <App13/> */}
+    <App16/>
   </React.StrictMode>
 );
 
