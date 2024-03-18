@@ -11,7 +11,8 @@ import './index.css';
 // import App13a from './App13a';
 // import App15 from './App15';
 // import App19 from './App19';
-import App21 from './App21';
+// import App21 from './App21';
+import App24 from './App24';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -25,7 +26,8 @@ root.render(
     {/* /* <App15/> */}
     {/* <App13a/>  */}
     {/* <App19/> */}
-    <App21/>
+    <App24/>
+    {/* <App21/> */}
   </React.StrictMode>
 );
 
