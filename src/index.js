@@ -12,7 +12,14 @@ import './index.css';
 // import App15 from './App15';
 // import App19 from './App19';
 // import App21 from './App21';
-import App24 from './App24';
+// import App24 from './App24';
+// import App25 from './App25';
+// import App26 from './App26';
+// import App23 from './App23';
+// import App30 from './App30';
+// import App27 from './App27';
+// import App28 from './App28';
+import App29 from './App29';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -26,8 +33,15 @@ root.render(
     {/* /* <App15/> */}
     {/* <App13a/>  */}
     {/* <App19/> */}
-    <App24/>
+    {/* <App24/> */}
     {/* <App21/> */}
+    {/* <App25/> */}
+    {/* <App26/> */}
+    {/* <App23/> */}
+    {/* <App30/> */}
+    {/* <App27/> */}
+    {/* <App28/> */}
+    <App29/>
   </React.StrictMode>
 );
 
